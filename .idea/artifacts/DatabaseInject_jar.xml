@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DatabaseInject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DatabaseInject_jar</output-path>
+    <root id="archive" name="DatabaseInject.jar">
+      <element id="module-output" name="DatabaseInject" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/javassist-3.23.1-GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/GenericAgentTools.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
